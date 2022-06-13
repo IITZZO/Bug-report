@@ -1,0 +1,14 @@
+{
+    "token" : "OTcyXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX8", 
+    "act" : "Activity Of Bot",
+    "type" : "PLAYING / LISTENING / COMPETING ", 
+    "status" : "idle / online / dnd / invisible",
+    "bchannel" : "Copy id of Bug Channel",
+    "role1" : "First Role You want to mention (id)",
+    "role2" : "Sec Role You want to mention (id)",
+    "role3" : "... Role You want to mention (id)",
+    "repm" : "message you want to reply in bot dm ",
+    "emot" : "✅",
+    "logch" : "copy id of logging channel " 
+    
+}
