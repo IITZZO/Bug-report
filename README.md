@@ -6,7 +6,7 @@ a discord bot help you for report bug from server member !
 
 
 
-#first step ! (Installation)
+# first step ! (Installation)
 
 1.Open CMD 
 -  npm init
